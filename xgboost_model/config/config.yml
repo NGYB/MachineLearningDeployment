@@ -1,0 +1,3 @@
+data_downloaded_path: "/data/VTI_downloaded.csv" # specify the path of your downloaded file here
+data_processed_path: "/data/VTI.csv"             # specify the path of your processed file here
+stock_code: "VTI"                                # stock code
