@@ -10,7 +10,7 @@ from datetime import date, timedelta
 
 def gen_plotly_url():
     # Sign in to plotly if you haven't done so
-    py.sign_in('ngyibin', '<YOUR-PASSWORD>')  # Be careful with this, don't put it on Github!!!
+    py.sign_in('<YOUR-USERNAME>', '<YOUR-PASSWORD>')  # Be careful with this, don't put it on Github!!!
 
     # Get current working directory
     cwd = os.getcwd()
